@@ -125,7 +125,6 @@ dmypy.json
 
 # vscode
 .vs
-.vscode
 
 # Pycharm
 .idea
@@ -183,3 +182,7 @@ test-results/
 # AI agent local setup artifacts
 /.agents/skills
 /.claude/skills
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
